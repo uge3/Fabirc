@@ -1,0 +1,5 @@
+[192.168.11.52]
+user = root
+pwd = root
+ports = 22
+
